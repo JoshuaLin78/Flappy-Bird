@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|c:\\users\\joshu\\desktop\\unity workspace\\flappy bird\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|c:\\users\\joshu\\desktop\\unity workspace\\flappy bird\\assets\\middlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\middlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|c:\\users\\joshu\\desktop\\unity workspace\\flappy bird\\assets\\logicmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\logicmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdScript.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\BirdScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:09:55.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiddleScript.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\MiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MiddleScript.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\MiddleScript.cs",
+              "RelativeToolTip": "Assets\\MiddleScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:37:44.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\LogicManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicManagerScript.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\LogicManagerScript.cs",
+              "RelativeToolTip": "Assets\\LogicManagerScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:30:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnScript.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:08:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pipeMoveScript.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\pipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\pipeMoveScript.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Unity Workspace\\Flappy Bird\\Assets\\pipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\pipeMoveScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:59:56.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
